@@ -8,13 +8,10 @@ a line added for main branch
 
 ####
 a line added for staging that will be differnt from main  branch
+i have not oulled from github yet i am making changes in the staging area
+made this change in staging from github
 
 
 
-
-
-
-
-
-
-# a change is also there
+## checking when it diverges
+## added a nother chnages
